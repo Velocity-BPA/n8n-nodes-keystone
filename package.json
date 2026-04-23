@@ -2,7 +2,7 @@
   "name": "n8n-nodes-keystone",
   "version": "1.0.0",
   "description": "A comprehensive n8n community node for Keystone hardware wallet integration providing 25 resources and 200+ operations for air-gapped cryptocurrency signing, multi-chain support, QR code workflows, and wallet integrations.",
-  "license": "BUSL-1.1",
+  "license": "SEE LICENSE IN LICENSE.md",
   "author": {
     "name": "Velocity BPA",
     "email": "licensing@velobpa.com",
@@ -107,7 +107,7 @@
     "eslint-plugin-n8n-nodes-base": "^1.16.0",
     "gulp": "^5.0.0",
     "jest": "^29.7.0",
-    "n8n-workflow": "^1.52.0",
+    "n8n-workflow": "1.57.0",
     "prettier": "^3.3.0",
     "rimraf": "^6.0.0",
     "ts-jest": "^29.1.2",
